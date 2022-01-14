@@ -17,9 +17,9 @@ sh drgat_env_install.sh
 ```
 
 
-# Step 3: Prepare data
+# Step 3: Experimental datasets
 
-Two datasets are required to run this code. 
+Two datasets are required to run this code. We have already upload datasets in the directory. You can skip this step.
 
 One is ogbn-arxiv origin data, the directory is `./drgat/dataset/ogbn_arxiv/`. 
 
