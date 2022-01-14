@@ -20,7 +20,11 @@ sh drgcn_env_install.sh
 
 # Step 3: Prepare data
 
-Two datasets are required to run this code. One is ogbn-arxiv origin data, the directory is `./dataset/ogbn_arxiv/`. Other is ogbn-arxiv pretrained node features from GIANT-XRT, the directory is `./dataset/ogbn-arxiv-pretrain/`.
+Two datasets are required to run this code. 
+
+One is ogbn-arxiv origin data, the directory is `./drgat/dataset/ogbn_arxiv/`. 
+
+Other is ogbn-arxiv pretrained node features from GIANT-XRT, the directory is `./drgat/dataset/ogbn-arxiv-pretrain/`.
 
 
 # Step 4: Run the experiment.
