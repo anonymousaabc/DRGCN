@@ -13,6 +13,8 @@ git clone https://github.com/anonymousaabc/DRGCN.git
 
 
 ```shell
+cd DRGCN
+
 sh drgat_env_install.sh
 ```
 
@@ -29,6 +31,14 @@ Other is ogbn-arxiv pretrained node features from GIANT-XRT, the directory is `.
 # Step 4: Run the experiment.
 
 Run runexp_drgat_ogbnarxiv.sh for reproducing our results for ogbn-arxiv dataset with GIANT-XRT features.
+
+```shell
+cd drgat
+
+sh runexp_drgat_ogbnarxiv.sh
+
+```
+
 
 # Results
 
