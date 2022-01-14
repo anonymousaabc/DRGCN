@@ -1,0 +1,6 @@
+# Release note for ogbn-arxiv
+
+### v1
+
+May 4, 2020
+First major release.
