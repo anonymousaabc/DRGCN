@@ -1,2 +1,0 @@
-ogbn_arxiv/processed/dgl_data_processed filter=lfs diff=lfs merge=lfs -text
-ogbn_arxiv/processed/geometric_data_processed.pt filter=lfs diff=lfs merge=lfs -text
