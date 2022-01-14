@@ -25,7 +25,7 @@ Two datasets are required to run this code. We have already upload datasets in t
 
 One is ogbn-arxiv origin data, the directory is `./drgat/dataset/ogbn_arxiv/`. 
 
-Other is ogbn-arxiv pretrained node features from GIANT-XRT, the directory is `./drgat/dataset/ogbn-arxiv-pretrain/`.
+The other is ogbn-arxiv pretrained node features from GIANT-XRT, the directory is `./drgat/dataset/ogbn-arxiv-pretrain/`.
 
 
 # Step 4: Run the experiment.
