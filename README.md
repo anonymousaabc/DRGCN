@@ -1,5 +1,4 @@
-# DRGCN
-This is a implementation of DRGCN
+This is a implementation of DRGAT.
 
 # Step 1: Git clone this repo.
 
@@ -14,7 +13,7 @@ git clone https://github.com/anonymousaabc/DRGCN.git
 
 
 ```shell
-sh drgcn_env_install.sh
+sh drgat_env_install.sh
 ```
 
 
