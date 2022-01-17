@@ -44,7 +44,7 @@ sh runexp_drgat_ogbnarxiv.sh
 
 If execute correctly, you should have the following performance (using pretrained GIANT-XRT features).
 
- | GIANT-XRT+DRGAT	| GIANT-XRT+DRGAT+KD
+Metrics | GIANT-XRT+DRGAT	| GIANT-XRT+DRGAT+KD
 -------- | ----- | -----
 Average val accuracy (%) |	77.16 ± 0.08 |	77.25 ± 0.06
 Average test accuracy (%) |	76.11 ± 0.09 |	76.33 ± 0.08
