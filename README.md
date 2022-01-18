@@ -39,6 +39,15 @@ sh runexp_drgat_ogbnarxiv.sh
 
 ```
 
+Run runexp_drgat_ogbnarxiv_kd.sh for reproducing our results for ogbn-arxiv dataset with GIANT-XRT features and KD.
+
+```shell
+cd drgat
+
+sh runexp_drgat_ogbnarxiv_kd.sh
+
+```
+
 
 # Results
 
