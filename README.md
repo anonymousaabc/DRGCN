@@ -30,7 +30,7 @@ The other is ogbn-arxiv pretrained node features from GIANT-XRT, the directory i
 
 # Step 4: Run the experiment.
 
-GIANT+XRT+DRGAT: Run runexp_drgat_ogbnarxiv.sh for reproducing our results for ogbn-arxiv dataset with GIANT-XRT features.
+**GIANT+XRT+DRGAT:** Run runexp_drgat_ogbnarxiv.sh for reproducing our results for ogbn-arxiv dataset with GIANT-XRT features.
 
 ```shell
 cd drgat
@@ -39,7 +39,7 @@ sh runexp_drgat_ogbnarxiv.sh
 
 ```
 
-GIANT+XRT+DRGAT+KD: Run runexp_drgat_ogbnarxiv_kd.sh for reproducing our results for ogbn-arxiv dataset with GIANT-XRT features and KD.
+**GIANT+XRT+DRGAT+KD:** Run runexp_drgat_ogbnarxiv_kd.sh for reproducing our results for ogbn-arxiv dataset with GIANT-XRT features and KD.
 
 ```shell
 cd drgat
