@@ -1,4 +1,4 @@
-This is a implementation of DRGAT.
+This is an anonymous implementation of DRGAT.
 
 # Step 1: Git clone this repo.
 
