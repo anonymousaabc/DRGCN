@@ -62,7 +62,7 @@ Number of params: 2685527
 
 Our hardware used for the experiments is Tesla P100-PCIE-16GB.
 
-Remark: We do not carefully fine-tune DRGAT for our GIANT-XRT. It is possible to achieve higher performance by fine-tune it more carefully.
+Remark: We do not fine-tune DRGAT for our GIANT-XRT. It is possible to achieve higher performance by fine-tune it more carefully.
 
 
 
